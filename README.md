@@ -22,3 +22,7 @@ Criado para praticarmos comandos do GitHub.
 
 <img src="./image/image.png" alt="" style="width: 100px;"> 
 
+## Projetos 
+- Projeto 1: voltado à educação
+- Projeto 2: e-commerce 
+- Projeto 3: e-commerce de roupa e sapato
