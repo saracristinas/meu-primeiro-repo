@@ -50,18 +50,18 @@ Este repositório foi criado com o objetivo de **praticar os principais comandos
 
 ---
 
-## 📁 Estrutura do Projeto
-
-📦 meu-primeiro-repo
-├── 📄 README.md
+  ## 📁 Estrutura do Projeto 
+  
+  ``` 📦 meu-primeiro-repo 
+  ├── 📄 README.md
 ├── 📄 .gitignore
 ├── 📄 LICENSE
 ├── 📄 notas.html
 └── 📁 image
-    └── 📄 decoracao.png
-    └── 📄 integrantes.png
-    └── 📄 logogithub.png
-
+├── 📄 decoracao.png
+├── 📄 integrantes.png
+└── 📄 logogithub.png
+```
 
 ---
 
